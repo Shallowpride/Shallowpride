@@ -6,3 +6,5 @@
   
   ![Badge](https://img.shields.io/badge/persist-5524-blue?style=plastic&labelColor=yellow&color=blue
 )
+
+<a href="http://blinki.es/funny"><img src="http://blinki.es/blinkies/funny/roflmao.gif" alt="Funny blinkies" ></a>
