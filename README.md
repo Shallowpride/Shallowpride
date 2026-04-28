@@ -5,5 +5,3 @@
 
   
   ![Badge](https://img.shields.io/badge/sorrow-4405-564A8E)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x3ovyawj7aewamccpcnwnthsiy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=67377d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
