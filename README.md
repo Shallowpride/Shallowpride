@@ -8,3 +8,6 @@
 )
 
 <a href="http://blinki.es/funny"><img src="http://blinki.es/blinkies/funny/roflmao.gif" alt="Funny blinkies" ></a>
+
+<div align="center">
+﹏﹏﹏﹏◤˙˚⊹★★⊹˚˙◥﹏﹏﹏﹏
