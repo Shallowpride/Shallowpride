@@ -1,9 +1,4 @@
 <div align=center>
-┆┆┆┆┆┆┆┆┆┆┆┆┆┆┆
-
-  ![Image](b7f7c87d-13e9-4fc2-96ae-78fbb987fe80.gif)
-
-<div align=center>
   𖤂ˋˎˏ˓﹍﹍﹍﹍◠⥤♡◅﹍﹍﹍﹍◠˒ˏˎˋ⸕
 
   
